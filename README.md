@@ -1,5 +1,7 @@
 # VISIONDECK PRO - Playing Cards Object Detection System
 
+<img width="1024" height="1024" alt="Logo" src="https://github.com/user-attachments/assets/4ece6f08-cd1d-49cb-9ca9-e83c00bd3827" />
+
 <div align="center">
 
 # 🎴 VISIONDECK PRO 🎴
